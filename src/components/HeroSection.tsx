@@ -31,13 +31,14 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          {/* Terminal-style header */}
+         {/* {/* Terminal-style header
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-primary/30 bg-card/50 backdrop-blur-sm mb-8 fade-in-up">
             <Terminal className="w-4 h-4 text-primary" />
             <span className="font-mono text-sm text-muted-foreground">
-              <span className="text-primary">who</span> 
-            </span>
-          </div>
+              <span className="text-primary"> I Am</span> 
+            </span> */}
+          
+          
 
           {/* Name */}
           <h1 className="text-5xl md:text-7xl font-mono font-bold mb-4 fade-in-up stagger-1">
